@@ -1,0 +1,1 @@
+from src.textSummarizer.entity.config_entity import DataIngestionConfig
